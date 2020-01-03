@@ -53,3 +53,5 @@ topics:
 
   - name: Enterprise Mobility Solutions
     image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/204px-Android_robot.svg.png
+
+theme: jekyll-theme-slate
